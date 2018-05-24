@@ -28,7 +28,7 @@
 			</array>
 			<key>metadata</key>
 			<dict>
-				<key>bundle-identifier</key>
+				<key>com.keyten.yqjc</key>
 				<string>com.keyten.yqjc</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
